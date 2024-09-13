@@ -209,3 +209,22 @@ UI테스트와 회귀 테스트
 - 모든테스트는 목적이 있고, 한계가 명확함.
 - 현재 진행하고 있는 프로젝트에 맞는 테스트를 선택해 전략을 짜고 가장 저렴한 방법으로 큰 효율을 누릴 수 있는 전략을 고민해보시길 바람.
 
+단테/통테
+jest: https://jestjs.io/
+vite: https://vitest.dev/
+react testing library: https://testing-library.com/docs/react-testing-library/intro/
+
+E2E테스트
+cypress: https://www.cypress.io/
+playwright: https://playwright.dev/
+puppeteer: https://pptr.dev/
+
+스냅샷 테스트
+jest: https://jestjs.io/
+vitest: https://vitest.dev/guide/snapshot
+
+시각적 회귀 테스트
+chromatic: https://www.chromatic.com/storybook
+chromatic: https://www.chromatic.com/
+GitHub-garris/BackstopJs: https://github.com/garris/BackstopJS
+applitools: https://applitools.com/
